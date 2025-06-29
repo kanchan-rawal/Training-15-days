@@ -8,10 +8,10 @@ Linux is a free, open-source operating system that works as a bridge between a c
 (an interface between the user and the computer hardware)
 
 ⭐️
-Linux is based on Unix — it works like Unix but is built independently.**e.g.ubuntu**
+Linux is based on Unix — it works like Unix but is built independently.
 
 ⭐️ 
-**Linux distributions** are different versions of the Linux operating system.
+**Linux distributions** are different versions of the Linux operating system.**e.g.ubuntu**
 
 ### Difference between linux and windows
 
@@ -41,5 +41,11 @@ Makes and sells own product
 Works for other companies (like Infosys builds software for banks or hospitals)
 Earns by providing services.
 Works for clients and gets paid
+
+**Startups:**
+A startup is a new company started by one or more people to create a unique product or service, usually with limited resources and big ideas.
+New business trying to grow fast by solving a real-world problem in a different or better way.
+
+**e.g.zomato,paytm
 
 
