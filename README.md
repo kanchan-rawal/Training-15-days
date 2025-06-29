@@ -6,6 +6,7 @@ Linux is a free, open-source operating system that works as a bridge between a c
 
 ### Operating system
 (an interface between the user and the computer hardware)
+
 ⭐️
 Linux is based on Unix — it works like Unix but is built independently.
 
