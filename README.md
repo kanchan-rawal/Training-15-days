@@ -6,5 +6,5 @@ Linux is a free, open-source operating system that works as a bridge between a c
 ### Operating system
 (an interface between the user and the computer hardware)
 ### Difference between linux and windows
-Feature ** Linux ** ** Windows **
+|Feature| ** Linux ** |** Windows **|
 
