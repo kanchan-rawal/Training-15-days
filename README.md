@@ -6,5 +6,14 @@ Linux is a free, open-source operating system that works as a bridge between a c
 ### Operating system
 (an interface between the user and the computer hardware)
 ### Difference between linux and windows
-| Feature | ** Linux ** | ** Windows ** |
+
+| Feature           | **Linux**                              | **Windows**                          |
+|------------------|----------------------------------------|--------------------------------------|
+| **Type**          | Open-source OS                        | Closed-source (paid license)         |
+| **Cost**          | Free to use                           | Paid (license required)              |
+| **Customization** | Highly customizable                   | Limited customization                |
+| **Security**      | More secure, fewer viruses            | More vulnerable to malware           |
+| **Usage**         | Used by developers, servers, hackers  | Mostly used by general users         |
+| **Interface**     | Mostly command-line + GUI             | Mostly graphical (GUI)               |
+| **Examples**      | Ubuntu, Fedora, Kali Linux            | Windows 10, Windows 11               |
 
