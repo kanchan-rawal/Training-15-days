@@ -52,6 +52,13 @@ A startup is a new company started by one or more people to create a unique prod
 Linux is used in servers, computers, Android, and cloud systems.
 It’s popular for programming, hacking, and high-security applications.
 
+# Day 2 (26 june 2025) 
+### Booting:
 
+It loads the operating system (like Windows or Linux) into the computer’s memory (RAM) so you can start using it.
+
+**Cold Booting:** Starting the computer from power off state (like turning it on),**hard booting**
+
+**Warm Booting:** 	Restarting the computer when it is already on (like using Restart button),**soft booting**
 
 
