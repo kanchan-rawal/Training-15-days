@@ -47,4 +47,11 @@ A startup is a new company started by one or more people to create a unique prod
 
 **e.g.zomato,paytm**
 
+###Uses of linux:###
+
+Linux is used in servers, computers, Android, and cloud systems.
+It’s popular for programming, hacking, and high-security applications.
+
+
+
 
