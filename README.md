@@ -20,3 +20,7 @@ Linux is a free, open-source operating system that works as a bridge between a c
 | **Usage**         | Used by developers, servers, hackers  | Mostly used by general users         |         
 | **Examples**      | Ubuntu, Fedora, Kali Linux            | Windows 10, Windows 11               |
 
+### How to install linux on windows
+**1.Virtual box:** It's like creating a computer inside your computer,VirtualBox lets you create a virtual machine (VM).
+
+
