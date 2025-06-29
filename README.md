@@ -3,8 +3,11 @@
 ## Introduction to linux
 ### What is linux?
 Linux is a free, open-source operating system that works as a bridge between a computer's hardware and the software you use.
+
 ### Operating system
 (an interface between the user and the computer hardware)
+⭐️
+Linux is based on Unix — it works like Unix but is built independently.
 
 ⭐️ 
 **Linux distributions** are different versions of the Linux operating system.
@@ -21,6 +24,6 @@ Linux is a free, open-source operating system that works as a bridge between a c
 | **Examples**      | Ubuntu, Fedora, Kali Linux            | Windows 10, Windows 11               |
 
 ### How to install linux on windows
-**1.Virtual box:** It's like creating a computer inside your computer,VirtualBox lets you create a virtual machine (VM).
-https://download.virtualbox.org/virtualbox/7.1.10/VirtualBox-7.1.10-169112-Win.exe
+**1.Virtual box:** It's like creating a computer inside your computer,VirtualBox lets you create a virtual machine.
+**2.
 
