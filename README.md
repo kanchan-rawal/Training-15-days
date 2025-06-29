@@ -43,9 +43,8 @@ Earns by providing services.
 Works for clients and gets paid
 
 **Startups:**
-A startup is a new company started by one or more people to create a unique product or service, usually with limited resources and big ideas.
-New business trying to grow fast by solving a real-world problem in a different or better way.
+A startup is a new company started by one or more people to create a unique product or service, usually with limited resources and big ideas,trying to grow fast by solving a real-world problem in a different or better way.
 
-**e.g.zomato,paytm
+**e.g.zomato,paytm**
 
 
