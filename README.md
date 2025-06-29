@@ -29,3 +29,17 @@ Linux is based on Unix — it works like Unix but is built independently.**e.g.u
 
 **2.
 
+
+
+**Product-Based Company:**
+Makes its own product (like Google makes Chrome, Microsoft makes Windows)
+Earns by selling that product.
+Makes and sells own product
+
+
+**Service-Based Company:**
+Works for other companies (like Infosys builds software for banks or hospitals)
+Earns by providing services.
+Works for clients and gets paid
+
+
