@@ -61,4 +61,34 @@ It loads the operating system (like Windows or Linux) into the computer’s memo
 
 **Warm Booting:** 	Restarting the computer when it is already on (like using Restart button),**soft booting**
 
+### Kernel:
+
+The core of an OS is called the kernel.
+It directly controls the hardware like CPU, memory, disk, etc.
+
+
+**Functions:**
+
+Manages CPU, RAM, devices
+
+Handles processes and files
+
+Acts as a bridge between software and hardware
+
+### Shell:
+
+The shell is the outer part of the OS that interacts with the user.
+
+
+
+It takes commands from the user and passes them to the kernel.
+
+**Types of Shell:**
+
+Command-line shell (e.g., Bash, CMD)
+
+Graphical shell (e.g., Windows desktop, GNOME in Ubuntu)
+
+
+⭐️ It acts like a translator between the user and the kernel.
 
