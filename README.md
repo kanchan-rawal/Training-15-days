@@ -8,7 +8,7 @@ Linux is a free, open-source operating system that works as a bridge between a c
 (an interface between the user and the computer hardware)
 
 ⭐️
-Linux is based on Unix — it works like Unix but is built independently.
+Linux is based on Unix — it works like Unix but is built independently.**e.g.ubuntu**
 
 ⭐️ 
 **Linux distributions** are different versions of the Linux operating system.
@@ -26,5 +26,6 @@ Linux is based on Unix — it works like Unix but is built independently.
 
 ### How to install linux on windows
 **1.Virtual box:** It's like creating a computer inside your computer,VirtualBox lets you create a virtual machine.
+
 **2.
 
