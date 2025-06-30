@@ -262,7 +262,7 @@ a	All (user + group + others)
 **Changing Permissions**
 
 
-Using chmod (change mode)
+Using **chmod (change mode)**
 
 
 Symbolic mode:
