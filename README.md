@@ -108,14 +108,23 @@ The shell is the outer part of the OS that interacts with the user.
 
 It takes commands from the user and passes them to the kernel.
 
-**Types of Shell:**
-
-Command-line shell (e.g., Bash, CMD)
-
-Graphical shell (e.g., Windows desktop, GNOME in Ubuntu)
-
 
 ⭐️ It acts like a translator between the user and the kernel.
+
+**Types of shells:**
+
+bash: Enhanced sh with more features, widely used on Linux.
+
+sh: Basic Unix shell, mainly for scripting and compatibility.
+
+zsh: Feature-rich, highly customizable shell popular among power users.
+
+fish: User-friendly shell with smart features and easy syntax.
+**Categories of Shells:**
+
+
+Command-Line Shell: You type text commands (like in Windows Command Prompt or Linux Terminal).
+Graphical Shell: You use graphical elements like icons and menus (like Windows Explorer or macOS Finder).
 
 ### Commands:
 **date:** Returns current date.
