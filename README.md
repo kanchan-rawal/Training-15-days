@@ -35,8 +35,26 @@ Linux is based on Unix — it works like Unix but is built independently.
 > This is required for features like USB support and VirtualBox Extension Pack.
 
 **3.Ubuntu download:**
-(
-https://tinyurl.com/csegndec)
+(https://tinyurl.com/csegndec)
+
+**4.Start Ubuntu:**
+
+
+
+1. Open VirtualBox
+
+
+2. Click New → Name: "Ubuntu"
+
+
+3. Set RAM (at least 2 GB) and create a virtual hard disk (20 GB or more)
+
+
+4. Under "Storage", click the empty optical drive → choose your Ubuntu ISO
+
+
+5. Start the VM → Ubuntu will boot and begin installation.
+
 
 **Product-Based Company:**
 Makes its own product (like Google makes Chrome, Microsoft makes Windows)
