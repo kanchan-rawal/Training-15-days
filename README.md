@@ -214,21 +214,33 @@ The **motherboard** is the **main circuit board** of a computer. It connects and
 
 ---
 
-##  Major Components on a Motherboard
+##  Major Components on motherboard
 
-| Component              | Function |
-|------------------------|----------|
-| **CPU Socket**         | Holds the processor (CPU). Must match the CPU type (e.g., Intel LGA, AMD AM4). |
-| **RAM Slots (DIMM)**   | Slots for system memory (RAM). Usually 2–4 slots. |
-| **Chipset**            | Controls data flow between the CPU, RAM, and other components. |
-| **Power Connectors**   | Main (24-pin) and CPU (4/8-pin) connectors to get power from the PSU. |
-| **SATA Ports**         | Connect hard drives and SSDs. |
-| **M.2 Slot**           | For fast NVMe SSDs. |
-| **PCIe Slots**         | For graphics cards (GPU), WiFi cards, sound cards, etc. |
-| **USB Headers**        | Connect front-panel USB ports. |
-| **BIOS/UEFI Chip**     | Stores firmware that helps boot the system. |
-| **CMOS Battery**       | Keeps time and BIOS settings when power is off. |
-| **Back I/O Panel**     | Ports for USB, audio, Ethernet, video, etc. on the rear of the case. |
+# 🧠 Motherboard Components Guide
+
+
+| Component               | Description |
+|-------------------------|-------------|
+| **CPU Processor Socket**| Slot where the CPU (Central Processing Unit) is installed. |
+| **RAM Memory Slots**    | Sockets for installing RAM modules (memory). |
+| **24-pin Power Connector** | Supplies main power to the motherboard from the power supply unit (PSU). |
+| **8-pin Power Connector** | Provides extra power specifically for the CPU. |
+| **Case Fan Connector**  | Connects a fan to keep the system cool. |
+| **Heat Sink**           | A metal piece that helps dissipate heat from chips like the CPU or chipset. |
+| **IDE Connector**       | Legacy connector for older hard drives and CD/DVD drives. |
+| **AGP Slots**           | Older slot used for video/graphics cards. |
+| **SATA Ports**          | Connect modern storage devices like SSDs and HDDs. |
+| **PCI Slots**           | Expansion slots for sound cards, network cards, and older GPUs. |
+| **Jumper Port**         | Used for resetting BIOS or configuring hardware at low level. |
+| **Floppy Port**         | Legacy connector for floppy disk drives. |
+| **BIOS Chip**           | Contains the firmware to boot the system and control hardware settings. |
+| **Modem Port**          | Used for dial-up internet (outdated). |
+| **Audio Port**          | Connects audio devices like speakers and microphones. |
+| **USB Port**            | Universal connection port for various peripherals. |
+| **VGA Port**            | Analog video output for monitors (legacy). |
+| **DVI Port**            | Digital video output, better than VGA. |
+| **HDMI Port**           | Combines high-definition video and audio output. |
+| **PS/2 Port**           | Legacy port for connecting keyboard and mouse. |
 
 ---
 
