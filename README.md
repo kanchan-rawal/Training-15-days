@@ -168,15 +168,15 @@ Bare metal installation refers to installing an operating system (OS), software,
 
 ⭐️PC is like a human body.
 
-**CPU:**brain
+**CPU:** brain
 
-**RAM:**short term memory
+**RAM:** short term memory
 
-**Hard drive:**long term memory
+**Hard drive:** long term memory
  
-**Motherboard:**nervous system
+**Motherboard:** nervous system
 
-**power supply:**heart
+**power supply:** heart
 
 ### Types of computer hardware:
 **Input Devices:**	Keyboard, Mouse, Microphone, Webcam	Allow users to input data into the computer.
