@@ -178,6 +178,10 @@ Graphical Shell: You use graphical elements like icons and menus (like Windows E
 | `/usr`    | User Programs         | Secondary hierarchy for user data. |
 | `/var`    | Variable Files        | Log files, spool files, etc. |
 # Day 3(27 june 2025)
+### iso file:
+
+An ISO file contains all the contents of a disc — including the file system structure, boot files, and data — bundled into one file with the .iso extension.
+
 ### Bare metal installation
 
 Bare metal installation refers to installing an operating system (OS), software, or virtualization environment directly on the physical hardware of a server or computer, without any pre-installed OS or virtualization layer.
@@ -198,6 +202,26 @@ Bare metal installation refers to installing an operating system (OS), software,
 | **3D Graphics Support**| Better 3D acceleration                    | Basic 3D support (limited gaming use)      |
 
 ---
+### Dual booting
+
+Dual booting means installing two operating systems on the same computer, so you can choose one at startup.
+
+### Partitioning Scheme
+
+
+A partitioning scheme is the way a hard drive is divided into sections (partitions) to store data or install operating systems.
+
+
+
+Types of Partitioning Schemes
+
+
+MBR (Master Boot Record)	Old system, supports up to 4 primary partitions, max 2 TB disk size	Older BIOS systems
+
+GPT (GUID Partition Table)	Newer system, supports 128 partitions, disks larger than 2 TB, more secure	Modern UEFI systems
+
+
+
 # Day 4 (30 june 2025)
 ## PC Hardware troubleshooting
 **Hardware** refers to the physical parts of a computer system — the components you can touch and see. These parts work together to process data, perform tasks, and run software.
