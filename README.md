@@ -26,10 +26,17 @@ Linux is based on Unix — it works like Unix but is built independently.
 
 ### How to install linux on windows
 **1.Virtual box:** It's like creating a computer inside your computer,VirtualBox lets you create a virtual machine.
+(https://www.virtualbox.org/)
 
-**2.
+**2.Microsoft visual c++ redistributable:**
 
+(https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 
+> This is required for features like USB support and VirtualBox Extension Pack.
+
+**3.Ubuntu download:**
+(
+https://tinyurl.com/csegndec)
 
 **Product-Based Company:**
 Makes its own product (like Google makes Chrome, Microsoft makes Windows)
