@@ -162,6 +162,20 @@ Bare metal installation refers to installing an operating system (OS), software,
 | **3D Graphics Support**| Better 3D acceleration                    | Basic 3D support (limited gaming use)      |
 
 ---
+# Day 4 (30 june 2025)
+## PC Hardware troubleshooting
+Hardware refers to the physical parts of a computer system — the components you can touch and see. These parts work together to process data, perform tasks, and run software.
+### Types of computer hardware:
+**Input Devices:**	Keyboard, Mouse, Microphone, Webcam	Allow users to input data into the computer.
+**Output Devices:**	Monitor, Printer, Speakers	Display or output information from the computer.
+**Processing Unit	CPU (Processor), Motherboard	:**The brain of the computer; processes data and controls operations.
+**Storage Devices:**	Hard Disk (HDD), SSD, Pen Drive	Store data permanently or temporarily.
+**Memory:**
+*(RAM)*	RAM (Random Access Memory)	Temporary memory that holds data currently being used.
+**Power Supply Unit (PSU):**	SMPS	Converts electricity to usable power for components.
+**Expansion Components	Graphics Card (GPU), Sound Card:**	Enhance performance or add features.
+**Cooling System:**	Fans, Heat Sink, Liquid Coolers	Prevent components from overheating.
+**Ports and Cables:**	USB, HDMI, Ethernet, SATA cables	Connect devices and transfer data/power.
 
 
 
