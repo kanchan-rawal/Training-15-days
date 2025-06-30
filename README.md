@@ -239,6 +239,7 @@ The **motherboard** is the **main circuit board** of a computer. It connects and
 
 ---
 
+
 ##  Major Components on motherboard
 
 
