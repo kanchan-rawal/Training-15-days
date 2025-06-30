@@ -117,6 +117,31 @@ cp: To copy content of a file to the other.
 
 whatis: Gives short description of a command.
 
+# File System Structure
+
+This repository contains a table-based documentation of the standard Linux/Unix file system structure.
+
+| Directory | Name                 | Description |
+|-----------|----------------------|-------------|
+| `/`       | Root Directory        | The top-level directory. All other directories are under it. |
+| `/bin`    | Binary                | Essential user command binaries. |
+| `/sbin`   | System Binary         | System administration binaries. |
+| `/boot`   | Boot Loader Files     | Contains boot files like the kernel. |
+| `/etc`    | Configuration Files   | System-wide configuration files. |
+| `/dev`    | Device Files          | Device nodes for hardware. |
+| `/home`   | Home Directories      | Personal directories for users. |
+| `/lib`    | Shared Libraries      | Libraries required by system binaries. |
+| `/media`  | Removable Media       | Mount point for USBs and CDs. |
+| `/mnt`    | Temporary Mounts      | Used for mounting file systems temporarily. |
+| `/opt`    | Optional Software     | Third-party applications. |
+| `/proc`   | Process Info          | Virtual filesystem with runtime info. |
+| `/root`   | Root Home             | Home directory of the root user. |
+| `/run`    | Runtime Data          | Temporary runtime information. |
+| `/srv`    | Service Data          | Data for services (e.g., HTTP, FTP). |
+| `/tmp`    | Temporary Files       | Temp files, usually cleared on reboot. |
+| `/usr`    | User Programs         | Secondary hierarchy for user data. |
+| `/var`    | Variable Files        | Log files, spool files, etc. |
+
 
 
 
