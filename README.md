@@ -92,4 +92,31 @@ Graphical shell (e.g., Windows desktop, GNOME in Ubuntu)
 
 ⭐️ It acts like a translator between the user and the kernel.
 
+### Commands:
+date: Returns current date.
+
+whoami: Returns the current domain and user name.
+
+ls (list): Returns content of a specified Directory
+
+cd: Changes directory.
+
+mkdir: Creates a new directory.
+
+pwd: Prints the current working directory.
+
+touch: Creates empty file.
+
+cat: Creates file with content.
+
+whereis: Finds the location of specified file.
+
+mv: To move or rename a file.
+
+cp: To copy content of a file to the other.
+
+whatis: Gives short description of a command.
+
+
+
 
