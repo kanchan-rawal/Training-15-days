@@ -165,11 +165,17 @@ Bare metal installation refers to installing an operating system (OS), software,
 # Day 4 (30 june 2025)
 ## PC Hardware troubleshooting
 **Hardware** refers to the physical parts of a computer system — the components you can touch and see. These parts work together to process data, perform tasks, and run software.
+
 ⭐️PC is like a human body.
+
 **CPU:**brain
+
 **RAM:**short term memory
-**Hard drive:**long term memory 
+
+**Hard drive:**long term memory
+ 
 **Motherboard:**nervous system
+
 **power supply:**heart
 
 ### Types of computer hardware:
@@ -231,24 +237,7 @@ The **motherboard** is the **main circuit board** of a computer. It connects and
 - **BIOS**: Basic firmware to start your PC (older systems).
 - **UEFI**: Modern version with graphical interface, supports larger drives and secure boot.
 
----
 
-## 🛠️ Common Issues Related to Motherboard
-
-| Symptom | Possible Cause |
-|--------|----------------|
-| No power | Faulty board or power connectors |
-| No display | RAM or CPU not properly seated |
-| Beep codes | POST errors (check manual) |
-| USB ports not working | BIOS settings or hardware failure |
-
----
-
-## 🧠 Summary
-
-The **motherboard** is the **central hub** of your PC. Choosing the right one ensures compatibility and performance.
-
-> 💡 Always check CPU, RAM, and case compatibility when building a PC.
 
 
 
