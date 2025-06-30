@@ -220,6 +220,57 @@ MBR (Master Boot Record)	Old system, supports up to 4 primary partitions, max 2 
 
 GPT (GUID Partition Table)	Newer system, supports 128 partitions, disks larger than 2 TB, more secure	Modern UEFI systems
 
+### file and directory permissions
+control who can read, write, or execute a file or directory.
+
+
+**There are three types of permissions:**
+
+Permission	Symbol	Meaning on File	Meaning on Directory
+
+**Read	r**	View the contents	List the files
+**Write 	w** Modify the file	Add/delete files
+**Execute	 x**	Run the file as program	Enter or access directory
+
+
+
+---
+
+**User Categories**
+
+Category	Meaning
+
+u	User (owner of the file)
+g	Group (users in the file's group)
+o	Others (all other users)
+a	All (user + group + others)
+
+
+
+---
+
+
+**Changing Permissions**
+
+Using chmod (change mode)
+
+Symbolic mode:
+
+chmod u+x file.txt     # Add execute for user
+chmod g-w file.txt     # Remove write from group
+chmod o=r file.txt     # Set others to read-only
+
+**Numeric (octal) mode:**
+
+Number	Permission
+
+7	rwx
+6	rw-
+5	r-x
+4	r--
+0	
+
+
 
 
 # Day 4 (30 june 2025)
