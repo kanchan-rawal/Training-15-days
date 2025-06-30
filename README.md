@@ -170,7 +170,7 @@ Bare metal installation refers to installing an operating system (OS), software,
 
 **Output Devices:**	Monitor, Printer, Speakers	Display or output information from the computer.
 
-**Processing Unit	CPU (Processor), Motherboard	:**The brain of the computer; processes data and controls operations.
+**Processing Unit	CPU** *(Processor)*, **Motherboard	:**The brain of the computer; processes data and controls operations.
 
 **Storage Devices:**	Hard Disk (HDD), SSD, Pen Drive	Store data permanently or temporarily.
 
