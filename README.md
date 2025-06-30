@@ -272,6 +272,43 @@ The **motherboard** is the **main circuit board** of a computer. It connects and
 - **BIOS**: Basic firmware to start your PC (older systems).
 - **UEFI**: Modern version with graphical interface, supports larger drives and secure boot.
 
+### What is Cache Memory?
+
+Cache memory is a small, high-speed memory located very close to or inside the CPU (Central Processing Unit). It stores frequently accessed data and instructions so the CPU can retrieve them faster than from main memory (RAM).
+
+### Cache Memory Levels:
+
+**L1 (Level 1):** Smallest and fastest, inside CPU core
+
+**L2 (Level 2):** Larger, slightly slower
+
+**L3 (Level 3):** Shared among cores, larger but slower than L1/L2
+
+
+
+---
+
+⭐️
+**Cache =** Notebook on your desk (super quick to grab info)
+
+**RAM =** Bookshelf nearby (still fast but not as instant)
+
+**Hard Drive =** Library down the hall (big but slow)
+
+### Difference between ram and cache memory:
+
+| Feature             | Cache Memory                              | RAM (Random Access Memory)                 |
+|---------------------|--------------------------------------------|---------------------------------------------|
+| **Speed**           | Very fast                                  | Slower than cache                           |
+| **Size**            | Small (in MBs)                             | Large (in GBs)                              |
+| **Location**        | Inside or near CPU                         | On the motherboard                          |
+| **Purpose**         | Stores frequently accessed CPU data        | Stores data and apps currently in use       |
+| **Cost**            | More expensive per MB                      | Cheaper per GB                              |
+| **Accessed By**     | Directly by CPU                            | Through system bus                          |
+| **Volatile**        | Yes (data lost when power off)             | Yes (also volatile)                         |
+
+---
+
 
 
 
