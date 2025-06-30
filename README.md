@@ -228,8 +228,11 @@ control who can read, write, or execute a file or directory.
 
 Permission	Symbol	Meaning on File	Meaning on Directory
 
+
 **Read	r**	View the contents	List the files
+
 **Write 	w** Modify the file	Add/delete files
+
 **Execute	 x**	Run the file as program	Enter or access directory
 
 
@@ -238,12 +241,18 @@ Permission	Symbol	Meaning on File	Meaning on Directory
 
 **User Categories**
 
+
 Category	Meaning
 
+
 u	User (owner of the file)
+
 g	Group (users in the file's group)
+
 o	Others (all other users)
+
 a	All (user + group + others)
+
 
 
 
@@ -252,23 +261,36 @@ a	All (user + group + others)
 
 **Changing Permissions**
 
+
 Using chmod (change mode)
+
 
 Symbolic mode:
 
+
 chmod u+x file.txt     # Add execute for user
+
 chmod g-w file.txt     # Remove write from group
+
 chmod o=r file.txt     # Set others to read-only
+
 
 **Numeric (octal) mode:**
 
+
 Number	Permission
 
+
 7	rwx
+
 6	rw-
+
 5	r-x
+
 4	r--
+
 0	
+
 
 
 
