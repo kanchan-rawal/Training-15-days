@@ -141,6 +141,39 @@ This repository contains a table-based documentation of the standard Linux/Unix 
 | `/tmp`    | Temporary Files       | Temp files, usually cleared on reboot. |
 | `/usr`    | User Programs         | Secondary hierarchy for user data. |
 | `/var`    | Variable Files        | Log files, spool files, etc. |
+# Day 3(27 june 2025)
+### Bare metal installation
+
+Bare metal installation refers to installing an operating system (OS), software, or virtualization environment directly on the physical hardware of a server or computer, without any pre-installed OS or virtualization layer.
+
+### VMware and virtual box
+
+| Feature               | VMware                                     | VirtualBox                                |
+|-----------------------|--------------------------------------------|--------------------------------------------|
+| **Developer**         | VMware Inc.                                | Oracle Corporation                         |
+| **Main Products**     | VMware Workstation, VMware Player          | Oracle VM VirtualBox                       |
+| **License**           | Mostly **paid** (some free tools)          | Completely **free and open-source**        |
+| **Performance**       | Generally **faster and more stable**       | Slightly **slower**, but improving         |
+| **OS Support**        | Supports most OSs (Windows, Linux, etc.)   | Also supports most OSs                     |
+| **Snapshots**         | Yes (in all versions)                      | Yes (in all versions)                      |
+| **USB Device Support**| Full support                               | Good support (extension pack needed)       |
+| **Guest Tools**       | VMware Tools (very polished)               | Guest Additions (sometimes less smooth)    |
+| **User Interface**    | More polished and professional             | Simpler, more beginner-friendly            |
+| **3D Graphics Support**| Better 3D acceleration                    | Basic 3D support (limited gaming use)      |
+
+---
+
+## ✅ Summary
+
+- 🧑‍💻 **Choose VMware** if you're a professional user looking for **better performance** and enterprise-grade features.
+- 🎓 **Choose VirtualBox** if you're a student or hobbyist wanting a **free and flexible solution**.
+
+---
+
+## 📌 License
+
+This content is provided under the [MIT License](LICENSE).
+
 
 
 
