@@ -165,6 +165,13 @@ Bare metal installation refers to installing an operating system (OS), software,
 # Day 4 (30 june 2025)
 ## PC Hardware troubleshooting
 **Hardware** refers to the physical parts of a computer system — the components you can touch and see. These parts work together to process data, perform tasks, and run software.
+⭐️PC is like a human body.
+**CPU:**brain
+**RAM:**short term memory
+**Hard drive:**long term memory 
+**Motherboard:**nervous system
+**power supply:**heart
+
 ### Types of computer hardware:
 **Input Devices:**	Keyboard, Mouse, Microphone, Webcam	Allow users to input data into the computer.
 
@@ -186,6 +193,62 @@ Bare metal installation refers to installing an operating system (OS), software,
 **Ports and Cables:**	USB, HDMI, Ethernet, SATA cables	Connect devices and transfer data/power.
 
 
+# Motherboard 
+
+The **motherboard** is the **main circuit board** of a computer. It connects and allows communication between all components, making it the backbone of your PC.
+
+---
+
+## Key Functions
+
+- Connects the **CPU**, **RAM**, **storage**, **GPU**, and **peripherals**.
+- Manages **power distribution** to hardware.
+- Hosts the **BIOS/UEFI firmware**, which starts your computer.
+- Provides **expansion slots** for additional cards (like WiFi, sound, or GPU).
+
+---
+
+##  Major Components on a Motherboard
+
+| Component              | Function |
+|------------------------|----------|
+| **CPU Socket**         | Holds the processor (CPU). Must match the CPU type (e.g., Intel LGA, AMD AM4). |
+| **RAM Slots (DIMM)**   | Slots for system memory (RAM). Usually 2–4 slots. |
+| **Chipset**            | Controls data flow between the CPU, RAM, and other components. |
+| **Power Connectors**   | Main (24-pin) and CPU (4/8-pin) connectors to get power from the PSU. |
+| **SATA Ports**         | Connect hard drives and SSDs. |
+| **M.2 Slot**           | For fast NVMe SSDs. |
+| **PCIe Slots**         | For graphics cards (GPU), WiFi cards, sound cards, etc. |
+| **USB Headers**        | Connect front-panel USB ports. |
+| **BIOS/UEFI Chip**     | Stores firmware that helps boot the system. |
+| **CMOS Battery**       | Keeps time and BIOS settings when power is off. |
+| **Back I/O Panel**     | Ports for USB, audio, Ethernet, video, etc. on the rear of the case. |
+
+---
+
+## BIOS vs UEFI
+
+- **BIOS**: Basic firmware to start your PC (older systems).
+- **UEFI**: Modern version with graphical interface, supports larger drives and secure boot.
+
+---
+
+## 🛠️ Common Issues Related to Motherboard
+
+| Symptom | Possible Cause |
+|--------|----------------|
+| No power | Faulty board or power connectors |
+| No display | RAM or CPU not properly seated |
+| Beep codes | POST errors (check manual) |
+| USB ports not working | BIOS settings or hardware failure |
+
+---
+
+## 🧠 Summary
+
+The **motherboard** is the **central hub** of your PC. Choosing the right one ensures compatibility and performance.
+
+> 💡 Always check CPU, RAM, and case compatibility when building a PC.
 
 
 
