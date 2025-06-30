@@ -288,7 +288,8 @@ Cache memory is a small, high-speed memory located very close to or inside the C
 
 ---
 
-⭐️
+⭐️Let
+
 **Cache =** Notebook on your desk (super quick to grab info)
 
 **RAM =** Bookshelf nearby (still fast but not as instant)
