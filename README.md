@@ -95,21 +95,21 @@ Graphical shell (e.g., Windows desktop, GNOME in Ubuntu)
 ### Commands:
 **date:** Returns current date.
 
-**whoami:**Returns the current domain and user name.
+**whoami:** Returns the current domain and user name.
 
 **ls (list):** Returns content of a specified Directory
 
-**cd:**Changes directory.
+**cd:** Changes directory.
 
 **mkdir:** Creates a new directory.
 
-**pwd:**Prints the current working directory.
+**pwd:** Prints the current working directory.
 
-**touch:**Creates empty file.
+**touch:** Creates empty file.
 
 **cat:** Creates file with content.
 
-**whereis:**Finds the location of specified file.
+**whereis:** Finds the location of specified file.
 
 **mv:** To move or rename a file.
 
