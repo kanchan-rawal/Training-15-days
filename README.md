@@ -120,11 +120,14 @@ sh: Basic Unix shell, mainly for scripting and compatibility.
 zsh: Feature-rich, highly customizable shell popular among power users.
 
 fish: User-friendly shell with smart features and easy syntax.
+
 **Categories of Shells:**
 
 
 Command-Line Shell: You type text commands (like in Windows Command Prompt or Linux Terminal).
+
 Graphical Shell: You use graphical elements like icons and menus (like Windows Explorer or macOS Finder).
+
 
 ### Commands:
 **date:** Returns current date.
@@ -153,7 +156,6 @@ Graphical Shell: You use graphical elements like icons and menus (like Windows E
 
 # File System Structure
 
-This repository contains a table-based documentation of the standard Linux/Unix file system structure.
 
 | Directory | Name                 | Description |
 |-----------|----------------------|-------------|
