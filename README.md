@@ -273,6 +273,7 @@ The **motherboard** is the **main circuit board** of a computer. It connects and
 - Provides **expansion slots** for additional cards (like WiFi, sound, or GPU).
 
 ---
+![image](https://github.com/user-attachments/assets/582a9ee7-31ef-4f71-9626-d7d1e7b3f3d2)
 
 
 ##  Major Components on motherboard
