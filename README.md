@@ -419,6 +419,32 @@ Cache memory is a small, high-speed memory located very close to or inside the C
 | **Volatile**        | Yes (data lost when power off)             | Yes (also volatile)                         |
 
 ---
+# Day 5(1 july 2025)
+# Common PC Issues
+
+## GPU (Graphics Processor Unit)
+- **Role**: Handles graphics and visual rendering.
+- **Common Problems**:
+  - Overheating
+  - Driver issues
+  - Screen tearing
+  - No display output
+
+## RAM Overuse
+- Don’t open too many apps or tabs.
+- Use Task Manager to monitor memory.
+
+## Malware
+- Use trusted antivirus software.
+- Schedule regular scans.
+
+## Temporary Files
+- Delete cookies, caches regularly.
+- Use Disk Cleanup or `Storage Sense`.
+
+## Fragmentation
+- Go to `Start → Defragment and Optimize Drives`
+- Schedule optimization weekly.
 
 
 
