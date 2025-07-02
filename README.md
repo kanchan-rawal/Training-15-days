@@ -597,7 +597,7 @@ Safe Mode is a diagnostic startup mode in Windows or other operating systems tha
 4. Click Restart and press `4` or `F4` for Safe Mode
 
 ### Shortcut:
-- Press `Shift + Restart` on login screen
+⭐️ Press `Shift + Restart` on login screen
 
 #  Recovery Tools
 
@@ -655,10 +655,10 @@ An antivirus is software designed to detect, prevent, and remove malicious softw
 - **Bitdefender**
 - **Kaspersky**
 
-## Best Practices
-- Keep antivirus updated
-- Regularly scan the system
-- Avoid unknown attachments and downloads
+## Best Practice
+⭐️ Keep antivirus updated
+⭐️ Regularly scan the system
+⭐️ Avoid unknown attachments and downloads
 
 
 
