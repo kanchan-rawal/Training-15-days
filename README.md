@@ -446,6 +446,80 @@ Cache memory is a small, high-speed memory located very close to or inside the C
 - Go to `Start → Defragment and Optimize Drives`
 - Schedule optimization weekly.
 
+# Optimization & Maintenance Tips
+
+## Desktop
+- Keep minimal files on Desktop (C drive).
+- Move folders to D: or E:.
+
+## Taskbar
+- Reduce shortcut icons.
+
+## Bookmarks
+- Excessive bookmarks slow down browser.
+
+## Scheduled Optimization
+- Schedule defragmentation using:
+
+## Delivery Optimization
+- Turn off for limited data usage:
+- Go to `Settings → Update & Security → Delivery Optimization`
+
+
+# Printer Issues & Fixes
+
+| Problem | Solution |
+|--------|----------|
+| Paper Jam | Remove page carefully |
+| No Paper | Use Print Queue |
+| Poor Print Quality | Refill/replace ink |
+| Overlapping Lines | Replace drum |
+
+
+# Hard Disk Partitioning
+
+## Primary Partition (C: Drive)
+- Stores the OS (Windows/Linux).
+- Avoid saving personal files here.
+
+## Logical Drives (D:, E:, F:)
+- Use these for:
+  - Documents
+  - Pictures
+  - Videos
+
+## Why Partition?
+- Data safety: OS crash won't affect other drives.
+- Better file organization.
+
+# BIOS / UEFI and POST
+
+| BIOS | UEFI |
+|------|------|
+| Basic Input/Output System | Unified Extensible Firmware Interface |
+| Older firmware | Modern standard |
+| ROM-based | Flash memory |
+| Keyboard navigation | GUI + Mouse |
+
+## POST (Power-On Self Test)
+Checks:
+- RAM
+- CPU
+- Keyboard
+- Display
+- Hard drives
+
+### Common Beep Codes
+| Code | Meaning |
+|------|---------|
+| 1 Long, 2 Short | GPU issue |
+| Continuous Beep | RAM issue |
+| No Beep | Power/motherboard issue |
+| CMOS Error | BIOS settings corrupted |
+
+### Access BIOS/UEFI
+- Press `F2`, `DEL`, `F10`, or `ESC` at startup.
+
 
 
 
