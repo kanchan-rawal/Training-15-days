@@ -572,6 +572,178 @@ The **Blue Screen of Death (BSOD)** is a system crash error screen displayed by 
 - **WhoCrashed**
 - Windows built-in **Event Viewer**
 
+# Day 6(2 july 2025)
+# 🛡️ Safe Mode
+
+## What is Safe Mode?
+Safe Mode is a diagnostic startup mode in Windows or other operating systems that loads only the essential system programs and services. It is used to troubleshoot issues related to software or drivers.
+
+## Types of Safe Mode (Windows)
+- **Safe Mode** – Loads minimal drivers.
+- **Safe Mode with Networking** – Includes network drivers and services.
+- **Safe Mode with Command Prompt** – Opens command-line interface.
+
+## When to Use Safe Mode?
+- Virus or malware removal
+- Uninstalling faulty drivers or software
+- Diagnosing hardware conflicts
+- System restore or update issues
+
+## How to Enter Safe Mode
+### For Windows 10/11:
+1. Go to Settings → Update & Security → Recovery
+2. Click **Restart now** under Advanced startup
+3. Choose **Troubleshoot** → **Advanced options** → **Startup Settings**
+4. Click Restart and press `4` or `F4` for Safe Mode
+
+### Shortcut:
+- Press `Shift + Restart` on login screen
+
+# 🔄 Recovery Tools
+
+## What are Recovery Tools?
+Recovery tools are utilities that help repair, restore, or recover your operating system after corruption or failure.
+
+## Common Recovery Tools
+- **System Restore:** Roll back your computer to a previous restore point.
+- **Startup Repair:** Automatically fixes boot problems.
+- **Windows Recovery Environment (WinRE):** A set of tools (Command Prompt, Reset, Restore, etc.)
+- **Reset this PC:** Allows you to reinstall Windows while keeping or removing files.
+
+## How to Access Recovery Tools
+1. Go to **Settings → Update & Security → Recovery**
+2. Use **Advanced startup**
+3. Or boot using a recovery USB/DVD
+
+## Linux Recovery Tools
+- **GRUB Rescue**
+- **Live USB Boot Repair Tools (e.g., SystemRescue, Rescatux)**
+
+# 🧰 OS Repair
+
+## Why Repair an Operating System?
+To fix issues like:
+- Boot failure
+- Corrupted system files
+- Missing DLLs or drivers
+- Update failures
+
+## OS Repair Options
+- **Startup Repair (Windows):** Fixes boot issues
+- **SFC (System File Checker):** Replaces corrupted system files
+  ```bash
+  sfc /scannow
+
+
+DISM /Online /Cleanup-Image /RestoreHealth
+
+# 🛡️ Antivirus
+
+## What is an Antivirus?
+An antivirus is software designed to detect, prevent, and remove malicious software (malware) including viruses, worms, trojans, spyware, and ransomware.
+
+## Types of Malware
+- **Virus:** Replicates and spreads by attaching to files.
+- **Trojan:** Disguises as legitimate software.
+- **Spyware:** Steals sensitive data.
+- **Ransomware:** Locks data until ransom is paid.
+
+## Popular Antivirus Software
+- **Windows Defender (built-in)**
+- **Avast**
+- **AVG**
+- **Bitdefender**
+- **Kaspersky**
+
+## Best Practices
+- Keep antivirus updated
+- Regularly scan the system
+- Avoid unknown attachments and downloads
+
+
+
+---
+
+### 📁 `docs/backup.md`
+
+```markdown
+# 💾 Backup
+
+## What is Backup?
+A backup is a copy of important data stored separately in case of loss, corruption, or system failure.
+
+## Types of Backup
+- **Full Backup:** Entire data copied.
+- **Incremental Backup:** Only new/changed files.
+- **Differential Backup:** All changes since last full backup.
+- **Cloud Backup:** Remote storage (Google Drive, OneDrive).
+
+## Backup Devices
+- External Hard Drives
+- USB Flash Drives
+- Network Attached Storage (NAS)
+- Cloud Storage Services
+
+## Tools
+- **Windows Backup & Restore**
+- **File History**
+- **Mac Time Machine**
+- **Acronis / EaseUS / AOMEI**
+
+# 🔌 Cables and Connectors
+
+## What Are They?
+Cables and connectors are physical components used to transfer data or power between hardware devices.
+
+## Common Types
+
+### Power Cables:
+- **AC Power Cable:** Connects computer to power outlet.
+- **SATA Power Cable:** Powers hard drives or SSDs.
+
+### Data Cables:
+- **SATA Cable:** Connects hard drives/SSDs to motherboard.
+- **IDE Cable:** Old type for hard drives.
+- **USB Cable:** Used for peripherals (mouse, keyboard, drives).
+- **HDMI/VGA/DVI:** Video output cables.
+
+### Connectors:
+- **RJ45:** Used for Ethernet networking
+- **USB Type-A / Type-C**
+- **3.5mm Audio Jack**
+
+
+# 🌐 RJ45 and Wired Connections
+
+## What is RJ45?
+RJ45 is a type of connector commonly used for Ethernet networking. It connects devices like computers, routers, and switches using twisted pair cables.
+
+## Cable Type
+- **Cat5e:** Up to 1 Gbps speed
+- **Cat6:** Up to 10 Gbps
+- **Cat6a/Cat7:** Higher speed and shielding
+
+## Internal Wire Colors (T568B Standard):
+1. Orange-White  
+2. Orange  
+3. Green-White  
+4. Blue  
+5. Blue-White  
+6. Green  
+7. Brown-White  
+8. Brown
+
+## Crimping RJ45:
+1. Strip 1 inch of cable insulation.
+2. Arrange wires as per T568B or T568A.
+3. Cut evenly and insert into RJ45 connector.
+4. Use crimping tool to press.
+
+## Uses of RJ45
+- LAN connection
+- Internet sharing
+- Secure and faster than Wi-Fi
+
 
 
 
