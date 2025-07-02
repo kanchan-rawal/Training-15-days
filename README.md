@@ -520,6 +520,58 @@ Checks:
 ### Access BIOS/UEFI
 - Press `F2`, `DEL`, `F10`, or `ESC` at startup.
 
+# Blue Screen of Death (BSOD)
+
+## What is BSOD?
+The **Blue Screen of Death (BSOD)** is a system crash error screen displayed by Windows operating systems. It appears when the OS encounters a **critical error** it cannot recover from safely.
+
+---
+
+## Common Causes of BSOD:
+
+### 1. **Hardware Failures**
+- Faulty **RAM**
+- Damaged **hard disk**
+- **Overheating** components
+- GPU or motherboard issues
+
+### 2. **Driver Issues**
+- Incompatible or outdated drivers
+- Improper installation of hardware drivers
+
+### 3. **Software Conflicts**
+- Recently installed applications interfering with the OS
+- Conflicts between background processes
+
+### 4. **Malware or Virus**
+- Corrupts system files
+- Tampering with kernel-level operations
+
+### 5. **Corrupted System Files**
+- Essential OS files missing or broken
+- Can occur after sudden shutdowns or power loss
+
+---
+
+##  How to Troubleshoot BSOD:
+
+- Use **Windows Memory Diagnostic** to test RAM
+-  Check disk health with `chkdsk /f`
+-  Update or roll back recent **driver** changes
+-  Use **System Restore** to go back to a working state
+-  Remove **unnecessary startup programs**
+-  Scan system using antivirus
+
+---
+
+##  Tools for Debugging BSOD:
+
+- **BlueScreenView** (NirSoft)
+- **WhoCrashed**
+- Windows built-in **Event Viewer**
+
+
+
 
 
 
