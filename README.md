@@ -573,7 +573,7 @@ The **Blue Screen of Death (BSOD)** is a system crash error screen displayed by 
 - Windows built-in **Event Viewer**
 
 # Day 6(2 july 2025)
-# 🛡️ Safe Mode
+# Safe Mode
 
 ## What is Safe Mode?
 Safe Mode is a diagnostic startup mode in Windows or other operating systems that loads only the essential system programs and services. It is used to troubleshoot issues related to software or drivers.
@@ -599,7 +599,7 @@ Safe Mode is a diagnostic startup mode in Windows or other operating systems tha
 ### Shortcut:
 - Press `Shift + Restart` on login screen
 
-# 🔄 Recovery Tools
+#  Recovery Tools
 
 ## What are Recovery Tools?
 Recovery tools are utilities that help repair, restore, or recover your operating system after corruption or failure.
@@ -619,7 +619,7 @@ Recovery tools are utilities that help repair, restore, or recover your operatin
 - **GRUB Rescue**
 - **Live USB Boot Repair Tools (e.g., SystemRescue, Rescatux)**
 
-# 🧰 OS Repair
+#  OS Repair
 
 ## Why Repair an Operating System?
 To fix issues like:
@@ -637,7 +637,7 @@ To fix issues like:
 
 DISM /Online /Cleanup-Image /RestoreHealth
 
-# 🛡️ Antivirus
+#  Antivirus
 
 ## What is an Antivirus?
 An antivirus is software designed to detect, prevent, and remove malicious software (malware) including viruses, worms, trojans, spyware, and ransomware.
@@ -664,10 +664,8 @@ An antivirus is software designed to detect, prevent, and remove malicious softw
 
 ---
 
-### 📁 `docs/backup.md`
 
-```markdown
-# 💾 Backup
+#  Backup
 
 ## What is Backup?
 A backup is a copy of important data stored separately in case of loss, corruption, or system failure.
@@ -690,7 +688,7 @@ A backup is a copy of important data stored separately in case of loss, corrupti
 - **Mac Time Machine**
 - **Acronis / EaseUS / AOMEI**
 
-# 🔌 Cables and Connectors
+#  Cables and Connectors
 
 ## What Are They?
 Cables and connectors are physical components used to transfer data or power between hardware devices.
@@ -713,7 +711,7 @@ Cables and connectors are physical components used to transfer data or power bet
 - **3.5mm Audio Jack**
 
 
-# 🌐 RJ45 and Wired Connections
+#  RJ45 and Wired Connections
 
 ## What is RJ45?
 RJ45 is a type of connector commonly used for Ethernet networking. It connects devices like computers, routers, and switches using twisted pair cables.
