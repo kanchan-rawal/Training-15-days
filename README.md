@@ -475,6 +475,8 @@ Cache memory is a small, high-speed memory located very close to or inside the C
 | Poor Print Quality | Refill/replace ink |
 | Overlapping Lines | Replace drum |
 
+⭐️For help, shortcut key - F1
+
 
 # Hard Disk Partitioning
 
