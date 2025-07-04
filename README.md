@@ -742,6 +742,160 @@ RJ45 is a type of connector commonly used for Ethernet networking. It connects d
 - Internet sharing
 - Secure and faster than Wi-Fi
 
+# Day 7 ( 3 july 2825) 
+
+# Host, Client, and Server
+
+## Host
+A host is any device that sends or receives data on a network. Examples include PCs, smartphones, printers, and IoT devices.
+
+## Client
+A client initiates requests for services (e.g., web browsers requesting web pages).
+
+## Server
+A server provides resources or services to clients (e.g., a web server or mail server).
+
+# Network Traffic
+
+Network traffic refers to the data flowing across the network. It includes emails, videos, file transfers, and real-time sensor data.
+
+# What is IP?
+
+**IP** stands for **Internet Protocol**. It is a set of rules that governs how data is sent and received over the internet or any network.
+
+---
+
+## Purpose of IP:
+- Identify devices on a network.
+- Enable communication between devices.
+- Define addressing and routing rules for data packets.
+
+---
+
+## IP Address:
+
+An **IP address** is a unique numerical label assigned to each device connected to a network that uses the Internet Protocol. It serves two main purposes:
+
+1. **Host Identification** – Who is sending/receiving?
+2. **Location Addressing** – Where to send the data?
+
+---
+
+## Properties of an IP Address:
+
+- 🔹 **Unique**: Each device must have a unique IP on the same network.
+- 🔹 **Universal**: Follows global standards so devices worldwide can communicate.
+- 🔹 **Layer**: Works at the **Network Layer** of the OSI Model.
+
+---
+
+# IPv4 Addressing
+
+- **Length**: 32 bits.
+- **Format**: Four decimal numbers (e.g., 192.168.1.1).
+- **Types**:
+  - Public IP
+  - Private IP
+- **Dynamic or Static**
+
+# IPv6 Addressing
+
+- **Length**: 128 bits.
+- **Format**: Hexadecimal (e.g., 2001:0db8:85a3::8a2e:0370:7334).
+- Solves IPv4 exhaustion.
+
+# Classful Addressing (IPv4)
+
+| Class | Starting Bits | IP Range     | Network Bits |
+|-------|----------------|--------------|---------------|
+| A     | 0              | 0 – 126      | 8             |
+| B     | 10             | 128 – 191    | 16            |
+| C     | 110            | 192 – 223    | 24            |
+| D     | 1110           | 224 – 239    | Multicast     |
+| E     | 1111           | 240 – 255    | Reserved      |
+
+# MAC (Media Access Control) Address
+
+- 12-character hexadecimal ID.
+- Used to identify devices at the hardware (Data Link Layer) level.
+- Example: `00:1A:2B:3C:4D:5E`
+
+# Default Gateway
+
+A default gateway is the router or device that connects a local network to the internet or another network.
+
+# DNS (Domain Name System)
+
+DNS translates human-readable domain names (like google.com) into IP addresses (like 172.217.16.238).
+
+# Subnetting
+
+## What is Subnetting?
+
+Subnetting is the process of dividing a large network into smaller, more manageable sub-networks (subnets). This allows for better network performance, security, and efficient IP address utilization.
+
+---
+
+## Benefits of Subnetting:
+- Efficient use of IP addresses.
+- Improved network performance.
+- Enhanced security and organization.
+- Easier fault isolation and management.
+
+---
+
+## Important Terms:
+
+### 🔹 Bandwidth
+- Capacity of data transfer in a network (e.g., Mbps).
+- Should be **maximum** for better performance.
+
+### 🔹 Latency
+- Time delay in data transmission.
+- Should be **minimum** for efficiency.
+
+### 🔹 Host Bits
+- Represent the number of hosts in a subnet.
+- Denoted by `0`s in the subnet mask.
+
+### 🔹 Network IP
+- First IP in a subnet.
+- Reserved for **network identification** (not usable by hosts).
+
+### 🔹 Broadcast IP
+- Last IP in a subnet.
+- Used to **send data to all devices** in the subnet (not usable by hosts).
+
+---
+
+## Example:
+
+Let's take IP: `192.168.1.0/24`
+
+| Address Type     | Example         |
+|------------------|-----------------|
+| Network Address  | 192.168.1.0     |
+| First Host       | 192.168.1.1     |
+| Last Host        | 192.168.1.254   |
+| Broadcast Address| 192.168.1.255   |
+
+- `/24` means 255.255.255.0 subnet mask.
+- It allows 256 IPs, with 254 usable for hosts.
+
+---
+
+## Formula:
+
+- **Number of Subnets**: `2^n` where `n = number of subnet bits`
+- **Number of Hosts**: `2^h - 2` where `h = number of host bits`
+
+---
+
+## Visual Breakdown:
+
+
+
+
 
 
 
