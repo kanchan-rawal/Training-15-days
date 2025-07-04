@@ -846,7 +846,7 @@ Subnetting is the process of dividing a large network into smaller, more managea
 
 ## Important Terms:
 
-### 🔹 Bandwidth
+### ⭐️ Bandwidth
 - Capacity of data transfer in a network (e.g., Mbps).
 - Should be **maximum** for better performance.
 
