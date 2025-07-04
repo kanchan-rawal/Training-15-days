@@ -850,19 +850,19 @@ Subnetting is the process of dividing a large network into smaller, more managea
 - Capacity of data transfer in a network (e.g., Mbps).
 - Should be **maximum** for better performance.
 
-### 🔹 Latency
+### ⭐️Latency
 - Time delay in data transmission.
 - Should be **minimum** for efficiency.
 
-### 🔹 Host Bits
+### ⭐️ Host Bits
 - Represent the number of hosts in a subnet.
 - Denoted by `0`s in the subnet mask.
 
-### 🔹 Network IP
+### ⭐️ Network IP
 - First IP in a subnet.
 - Reserved for **network identification** (not usable by hosts).
 
-### 🔹 Broadcast IP
+### ⭐️ Broadcast IP
 - Last IP in a subnet.
 - Used to **send data to all devices** in the subnet (not usable by hosts).
 
