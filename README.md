@@ -742,7 +742,7 @@ RJ45 is a type of connector commonly used for Ethernet networking. It connects d
 - Internet sharing
 - Secure and faster than Wi-Fi
 
-# Day 7 ( 3 july 2825) 
+# Day 7 ( 3 july 2025) 
 
 # Host, Client, and Server
 
@@ -783,9 +783,9 @@ An **IP address** is a unique numerical label assigned to each device connected 
 
 ## Properties of an IP Address:
 
-- 🔹 **Unique**: Each device must have a unique IP on the same network.
-- 🔹 **Universal**: Follows global standards so devices worldwide can communicate.
-- 🔹 **Layer**: Works at the **Network Layer** of the OSI Model.
+- **Unique**: Each device must have a unique IP on the same network.
+- **Universal**: Follows global standards so devices worldwide can communicate.
+- **Layer**: Works at the **Network Layer** of the OSI Model.
 
 ---
 
@@ -891,7 +891,6 @@ Let's take IP: `192.168.1.0/24`
 
 ---
 
-## Visual Breakdown:
 
 
 
