@@ -907,7 +907,7 @@ Let's take IP: `192.168.1.0/24`
 - Used to test connectivity between two devices.
 
 Example:
-```bash
+bash
 ping google.com
 ping 8.8.8.8---
 
@@ -930,7 +930,7 @@ ping 8.8.8.8---
 - Displays IP address and network configuration.
 
  Linux:
-```bash
+bash
 ifconfig
 ip addr show---
 
