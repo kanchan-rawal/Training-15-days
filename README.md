@@ -892,7 +892,7 @@ Let's take IP: `192.168.1.0/24`
 ---
 # Day 8 (4 july 2025)
 
-# DHCP (Dynamic Host Configuration Protocol)
+## DHCP (Dynamic Host Configuration Protocol)
 
 - Automatically assigns IP addresses to devices in a network.
 - Reduces manual IP configuration errors.
@@ -902,53 +902,47 @@ Let's take IP: `192.168.1.0/24`
 - Reduces manual IP configuration errors.
 ----
 
-# Ping
+## Ping
 
 - Used to test connectivity between two devices.
 
-Example:
-bash
-ping google.com
-ping 8.8.8.8---
 
 
-
-# Loopback Address
+## Loopback Address
 
 - IP: `127.0.0.1`
-- 
+- Used to test the device's own TCP/IP stack.
 
-# Traceroute
+
+
+## Traceroute
 
 - Shows the path packets take to reach a host.
 
----
 
 
-# IP Configuration
+## IP Configuration
 
 - Displays IP address and network configuration.
 
- Linux:
-bash
-ifconfig
-ip addr show---
 
 
-# Ethernet
+## Ethernet
 
 - A wired networking technology.
 - Faster and more stable than WiFi.
 - Uses RJ45 connectors and Cat5e/Cat6 cables.
 
-# Basic Differences
+
+## Basic Differences
 
 | Term      | Description |
 |-----------|-------------|
 | Ethernet  | Wired network using cables |
 | WiFi      | Wireless network |
 | LAN       | Local Area Network (within home/school) |
-
+| WAN       | Wide Area Network (spans cities/countries) |
+| Internet  | Global network connecting millions of devices |
 
 
 
