@@ -890,6 +890,74 @@ Let's take IP: `192.168.1.0/24`
 - **Number of Hosts**: `2^h - 2` where `h = number of host bits`
 
 ---
+# Day 8 (4 july 2025)
+
+# DHCP (Dynamic Host Configuration Protocol)
+
+- Automatically assigns IP addresses to devices in a network.
+- Reduces manual IP configuration errors.
+-# DHCP (Dynamic Host Configuration Protocol)
+
+- Automatically assigns IP addresses to devices in a network.
+- Reduces manual IP configuration errors.
+----
+
+#### 📄 `PING.md`
+```markdown
+# Ping
+
+- Used to test connectivity between two devices.
+
+🔧 Example:
+```bash
+ping google.com
+ping 8.8.8.8---
+
+
+#### 📄 `LOOPBACK.md`
+```markdown
+# Loopback Address
+
+- IP: `127.0.0.1`
+- Used---
+
+#### 📄 `TRACEROUTE.md`
+```markdown
+
+# Traceroute
+
+- Shows the path packets take to reach a host.
+
+🔧---
+
+#### 📄 `IPCONFIG.md`
+```markdown
+
+# IP Configuration
+
+- Displays IP address and network configuration.
+
+🔧 Linux:
+```bash
+ifconfig
+ip addr show---
+
+#### 📄 `ETHERNET.md`
+```markdown
+
+# Ethernet
+
+- A wired networking technology.
+- Faster and more stable than WiFi.
+- Uses RJ45 connectors and Cat5e/Cat6 cables.
+# Basic Differences
+
+| Term      | Description |
+|-----------|-------------|
+| Ethernet  | Wired network using cables |
+| WiFi      | Wireless network |
+| LAN       | Local Area Network (within home/school) |
+
 
 
 
