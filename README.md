@@ -902,8 +902,6 @@ Let's take IP: `192.168.1.0/24`
 - Reduces manual IP configuration errors.
 ----
 
-#### 📄 `PING.md`
-```markdown
 # Ping
 
 - Used to test connectivity between two devices.
@@ -914,15 +912,11 @@ ping google.com
 ping 8.8.8.8---
 
 
-#### 📄 `LOOPBACK.md`
-```markdown
+
 # Loopback Address
 
 - IP: `127.0.0.1`
-- Used---
-
-#### 📄 `TRACEROUTE.md`
-```markdown
+- 
 
 # Traceroute
 
@@ -930,8 +924,6 @@ ping 8.8.8.8---
 
 🔧---
 
-#### 📄 `IPCONFIG.md`
-```markdown
 
 # IP Configuration
 
@@ -942,14 +934,13 @@ ping 8.8.8.8---
 ifconfig
 ip addr show---
 
-#### 📄 `ETHERNET.md`
-```markdown
 
 # Ethernet
 
 - A wired networking technology.
 - Faster and more stable than WiFi.
 - Uses RJ45 connectors and Cat5e/Cat6 cables.
+
 # Basic Differences
 
 | Term      | Description |
