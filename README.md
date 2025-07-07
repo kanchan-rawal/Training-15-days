@@ -906,7 +906,7 @@ Let's take IP: `192.168.1.0/24`
 
 - Used to test connectivity between two devices.
 
-🔧 Example:
+Example:
 ```bash
 ping google.com
 ping 8.8.8.8---
@@ -922,14 +922,14 @@ ping 8.8.8.8---
 
 - Shows the path packets take to reach a host.
 
-🔧---
+---
 
 
 # IP Configuration
 
 - Displays IP address and network configuration.
 
-🔧 Linux:
+ Linux:
 ```bash
 ifconfig
 ip addr show---
