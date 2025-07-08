@@ -964,37 +964,7 @@ HTML stands for HyperText Markup Language. It is the standard language used to c
 
 ---
 
-## Example of Basic HTML Code:
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My First Webpage</title>
-</head>
-<body>
-  <h1>Welcome!</h1>
-  <p>This is my first website using HTML.</p>
-</body>
-</html>
-
-
----
-
-## Common HTML Elements:
-
-Tag	Purpose
-
-<h1> to <h6>	Headings
-<p>	Paragraph
-<a>	Link
-<img>	Image
-<ul>, <ol>, <li>	Lists
-<div>	Section/block
-<table>	Table
-
-
-
----
 
 ## Is HTML a Programming Language?
 
