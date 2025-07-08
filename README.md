@@ -943,6 +943,62 @@ Let's take IP: `192.168.1.0/24`
 | LAN       | Local Area Network (within home/school) |
 | WAN       | Wide Area Network (spans cities/countries) |
 | Internet  | Global network connecting millions of devices |
+# Day 9 (7 july 2025)
+
+
+## HTML
+HTML stands for HyperText Markup Language. It is the standard language used to create webpages.
+
+
+---
+
+## What HTML Does:
+
+- Structures the content on a webpage.
+
+- Tells the browser what to display (headings, paragraphs, images, links, videos, etc.).
+
+- Used with CSS and JavaScript to build complete websites.
+
+
+
+---
+
+## Example of Basic HTML Code:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Webpage</title>
+</head>
+<body>
+  <h1>Welcome!</h1>
+  <p>This is my first website using HTML.</p>
+</body>
+</html>
+
+
+---
+
+## Common HTML Elements:
+
+Tag	Purpose
+
+<h1> to <h6>	Headings
+<p>	Paragraph
+<a>	Link
+<img>	Image
+<ul>, <ol>, <li>	Lists
+<div>	Section/block
+<table>	Table
+
+
+
+---
+
+## Is HTML a Programming Language?
+
+ No, HTML is a markup language. It doesn't contain logic like if/else or loops (that’s what JavaScript does).
 
 
 
