@@ -988,7 +988,7 @@ The server responds with an HTML file (and usually CSS, JS, images).
 
 The browser starts reading the HTML from top to bottom.
 
-It converts HTML into a structure called the DOM (Document Object Model) — like a tree of elements (e.g.<html>,<body>,<h1>,etc.).
+It converts HTML into a structure called the DOM (Document Object Model) — like a tree of elements .
 
 
 
