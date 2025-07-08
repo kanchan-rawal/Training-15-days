@@ -1000,6 +1000,65 @@ Tag	Purpose
 
  No, HTML is a markup language. It doesn't contain logic like if/else or loops (that’s what JavaScript does).
 
+## How a browser renders HTML
+
+### 1. User Requests a Webpage
+
+You type a URL (like www.example.com) or click a link.
+
+Browser sends a request to the web server.
+
+The server responds with an HTML file (and usually CSS, JS, images).
+
+
+
+---
+
+### 2. HTML Parsing Begins
+
+The browser starts reading the HTML from top to bottom.
+
+It converts HTML into a structure called the DOM (Document Object Model) — like a tree of elements (e.g. <html>, <body>, <h1>, etc.).
+
+
+
+---
+
+### 3. CSS Styling (Optional)
+
+If there’s CSS (inside <style> or from a .css file), the browser builds a CSSOM (CSS Object Model).
+
+Then it combines the DOM + CSSOM to form a Render Tree, where it knows what each element looks like (size, color, font, etc.).
+
+
+
+---
+
+### 4. Layout / Painting
+
+Browser calculates the position and size of each element on the screen.
+
+Then it paints the elements onto the screen, pixel by pixel.
+
+
+
+---
+
+### 5. JavaScript Runs (if present)
+
+If there's any JavaScript (<script>), it may modify the HTML or CSS, making the page interactive or dynamic (e.g., show/hide things, animations).
+
+
+
+---
+
+### 6. Final Render
+
+You see the fully loaded and styled webpage in the browser window.
+
+
+
+---
 
 
 
